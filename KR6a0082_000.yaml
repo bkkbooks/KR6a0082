@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0082/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 意經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0082.xml
+    old_id: T01n0082
+hash: sha256:d0e96b86c0e057e43811485009aaa5d8d7b3364de98d0e32464c3b14db50a53a
